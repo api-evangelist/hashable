@@ -39,7 +39,6 @@ apis:
   - name: Hashable
     description: "A REST API to access high level cryptographic functions and methods"
     humanURL: https://hashable.space/pages/api/
-    baseURL: https://hashable.space/pages/api/
     tags:
       - Security
     properties:
